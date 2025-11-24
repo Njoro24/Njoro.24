@@ -47,6 +47,31 @@ I'm a passionate **Junior Software Developer** based in Nairobi, Kenya. I specia
 
 ## Featured Projects
 
+### 💸 [International Money Transfer Platform](https://github.com/Njoro24/money-transfer)
+The smart way to send money internationally. Compare rates, save money, and transfer faster with our revolutionary fintech platform
+
+<div align="center">
+  <img src="https://i.imgur.com/Sj8HJqF.png" width="45%" />
+  <img src="https://i.imgur.com/OvDvOqH.png" width="45%" />
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/yVQSIMV.png" width="45%" />
+  <img src="https://i.imgur.com/n0TTfWm.png" width="45%" />
+</div>
+
+- **Technologies:** React, Node.js, PostgreSQL, Tailwind CSS, Payment APIs
+- **Key Features:** Real-time exchange rate comparison, secure international transfers, multi-currency support, transaction tracking
+- **Impact:** Making cross-border payments affordable and transparent for everyone
+
+### 🌍 [Climate Change Documentation Platform](https://github.com/Njoro24/climate-docs)
+Empowering communities to document climate change through innovative AI-powered verification and blockchain incentives
+
+![Climate Platform Screenshot](https://i.imgur.com/y3tY1Mb.png)
+
+- **Technologies:** React, Node.js, Solidity, Ethereum, AI/ML, Tailwind CSS
+- **Key Features:** AI-powered image verification, blockchain-based reward system, community-driven climate documentation
+- **Impact:** Enabling transparent and verified climate change reporting from affected communities
+
 ### 🌾 [Project AgriVault](https://github.com/Njoro24/agrivault)
 An application helping the adoption of technology in the Agriculture industry
 
@@ -95,7 +120,6 @@ function lifeGoals() {
 
 ## ⚡ Fun Facts
 
-- 🎯 I solved my first coding challenge at 24 years old
 - 🐛 When I'm not coding, I'm debugging
 - 🤝 **Open to Collaborate:** I'm always looking for opportunities to collaborate on interesting projects, contribute to open source, or simply connect with fellow developers. If you're working on something exciting or just want to chat about code, feel free to reach out!
 
