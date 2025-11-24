@@ -66,7 +66,7 @@ The smart way to send money internationally. Compare rates, save money, and tran
 ### 🌍 [Climate Change Documentation Platform](https://github.com/Njoro24/climate-docs)
 Empowering communities to document climate change through innovative AI-powered verification and blockchain incentives
 
-![Climate Platform Screenshot](https://i.imgur.com/y3tY1Mb.png)
+![Climate Platform Screenshot](https://i.imgur.com/D3jMlbY.png)
 
 - **Technologies:** React, Node.js, Solidity, Ethereum, AI/ML, Tailwind CSS
 - **Key Features:** AI-powered image verification, blockchain-based reward system, community-driven climate documentation
@@ -120,6 +120,7 @@ function lifeGoals() {
 
 ## ⚡ Fun Facts
 
+- 🎯 I solved my first coding challenge at 24 years old
 - 🐛 When I'm not coding, I'm debugging
 - 🤝 **Open to Collaborate:** I'm always looking for opportunities to collaborate on interesting projects, contribute to open source, or simply connect with fellow developers. If you're working on something exciting or just want to chat about code, feel free to reach out!
 
