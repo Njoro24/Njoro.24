@@ -119,8 +119,6 @@ function lifeGoals() {
 ```
 
 ## ⚡ Fun Facts
-
-- 🎯 I solved my first coding challenge at 24 years old
 - 🐛 When I'm not coding, I'm debugging
 - 🤝 **Open to Collaborate:** I'm always looking for opportunities to collaborate on interesting projects, contribute to open source, or simply connect with fellow developers. If you're working on something exciting or just want to chat about code, feel free to reach out!
 
